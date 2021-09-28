@@ -2,7 +2,7 @@
 
 In this project, I do a Web Scraping on the blog site of Digital Innovation One, using python 3.
 
-## [What is Web-Scraping?][1]
+## What is Web-Scraping?[1]
 
 Web scraping is the process of collecting structured data from the web in an automated way. Also known as web data extraction. Some of the top web scraping use cases include price tracking, price intelligence, news tracking, lead generation, and market research, among many other uses.
 
@@ -18,21 +18,21 @@ More than a modern convenience, the real power of web scraping lies in its abili
 
 A confeccão do algoritmo foi inteiramente feita em python, utilizando as seguintes bibliotecas:
 
-- [json][2] 
-- [Requests][3]
-- [BeautifulSoup][4]
+- json[2] 
+- Requests[3]
+- BeautifulSoup[4]
 
-### [Json][2]
+### Json[2]
 
 A biblioteca Json foi utilizada para armazenamento dos dados no formato .json, de uma forma organizada, semelhante aos dicionários do python 3. Com esse formato de armazenamento é possível ter uma maior facilidade de implementação de técnicas de machine learning, a transição de dicionários para datasets csv é de fácil implementação.
 
-### [Requests][3]
+### Requests[3]
 
 This library is an easy and automated way to make HTTP requests through python. It abstracts the complexities of making requests behind a nice, simple API so you can focus on interacting with services and consuming data in your app.
 
 Throughout this article, you’ll see some of the most useful features that requests has to offer as well as how to customize and optimize those features for different situations you may come across. You’ll also learn how to use requests in an efficient way as well as how to prevent requests to external services from slowing down your application.
 
-### [BeautifulSoup][4]
+### BeautifulSoup[4]
 
 With the need to encode the information coming from the request, as well as the need for an HTML Parser, this is where the need to use the BeautifulSoup library comes in, thus extracting data from all types of websites becomes an easy task.
 
