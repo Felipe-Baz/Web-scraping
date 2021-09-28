@@ -42,14 +42,14 @@ With the need to encode the information coming from the request, as well as the 
 \
 [1]: https://www.gocache.com.br/seguranca/o-que-e-web-scraping-para-iniciantes/
 
-- json[2]
+- json
 \
 [2]: https://docs.python.org/3/library/json.html
 
-- Requests[3]
+- Requests
 \
 [3]: https://docs.python-requests.org/en/latest/
 
-- BeautifulSoup[4]
+- BeautifulSoup
 \
 [4]: https://pypi.org/project/beautifulsoup4/
