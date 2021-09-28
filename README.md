@@ -14,9 +14,9 @@ And it shouldn't be surprising, because web scraping provides something really v
 
 More than a modern convenience, the real power of web scraping lies in its ability to create and power some of the most revolutionary business applications in the world. “Transformative” doesn't even begin to describe how some companies use data collected from the web to improve their operations, from informing executive decisions to individual customer service experiences.
 
-## Tecnologias empregadas
+## Technologies used
 
-A confeccão do algoritmo foi inteiramente feita em python, utilizando as seguintes bibliotecas:
+The construction of the algorithm was entirely done in python, using the following libraries:
 
 - json[2] 
 - Requests[3]
@@ -24,7 +24,7 @@ A confeccão do algoritmo foi inteiramente feita em python, utilizando as seguin
 
 ### Json[2]
 
-A biblioteca Json foi utilizada para armazenamento dos dados no formato .json, de uma forma organizada, semelhante aos dicionários do python 3. Com esse formato de armazenamento é possível ter uma maior facilidade de implementação de técnicas de machine learning, a transição de dicionários para datasets csv é de fácil implementação.
+The Json library was used to store data in .json format, in an organized way, similar to python 3 dictionaries. With this storage format, it is possible to have a greater ease in the implementation of machine learning techniques, the transition from dictionaries to csv datasets is easy to implement.
 
 ### Requests[3]
 
